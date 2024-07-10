@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 html {
-	background-color: #e1e1e1;
-	direction: rtl;
+    background-color: #e1e1e1;
+    direction: rtl;
 }
